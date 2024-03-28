@@ -1,0 +1,13 @@
+Code;Name;Type;Target;Clone;Class;Isotype;Host;Conj;Final_concentration;Stock_concentration;Units;Cell_number;Vendor;Cat #;Application;Location;Info 
+A1;anti-p72;primary;ASFV p72;1BC11;Mono;IgG1;mouse;NA;0.0020;1.0000;mg/ml;;Ingenase;;;4C, 4-2;Anti PPA VP72 (goldstandarddiagnostics.es)
+A2;anti-mouse IgG1;secondary;IgG1;;Poly;;goat;Alexa488;0.0010;2.0000;mg/ml;;Invitrogen;A21121;Flow, Microscope;4CF, Box1;Goat anti-Mouse IgG1 Cross-Adsorbed, Alexa Fluor™ 488 (A-21121) (thermofisher.com)
+A3;anti-mouse IgG1;secondary;IgG1;;Poly;;goat;Alexa647;0.0010;2.0000;mg/ml;;Invitrogen;A-21240;Flow, Microscope;4CF, Box2;Goat anti-Mouse IgG1 Cross-Adsorbed, Alexa Fluor™ 647 (A-21240) (thermofisher.com)
+A4;;;;;;;;;;;;;;;;;
+A5;;;;;;;;;;;;;;;;;
+A6;;;;;;;;;;;;;;;;;
+A7;;;;;;;;;;;;;;;;;
+A8;;;;;;;;;;;;;;;;;
+A9;;;;;;;;;;;;;;;;;
+A10;;;;;;;;;;;;;;;;;
+A11;;;;;;;;;;;;;;;;;
+A12;;;;;;;;;;;;;;;;;
