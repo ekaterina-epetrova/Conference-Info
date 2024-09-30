@@ -1,0 +1,93 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ekaterina-epetrova/Conference-Info/blob/master/SOP14_Flow_cytomerty_staining\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# PBMCs staining\n",
+        "\n",
+        "## Summary:\n",
+        "This protocol outlines the steps for staining of fresh or cryopreserved PBMC for analysing on Cytek Analyzer different immune cell populations.\n",
+        "\n",
+        "A basic workflow for acquisition of samples on a spectral flow cytometer (Cytek Aurora) can be found here: [1](https://welcome.cytekbio.com/hubfs/Website%20Downloadable%20Content/Guides%20and%20Manuals/Aurora%20Users%20Guide.pdf)\n",
+        "\n",
+        "\n",
+        "https://hal.science/hal-00902940/document\n",
+        "\n",
+        "## **Key Resources Table**\n",
+        "\n",
+        "| **Reagent or Resource**                     | **Source**                     | **Identifier**            | **Other Information**                |\n",
+        "|---------------------------------------------|--------------------------------|---------------------------|---------------------------------------|\n",
+        "| **Chemicals and Kits** | | |                                       |\n",
+        "| RBC Lysis Buffer | recipe | | |\n",
+        "| 1x PBS | recipe | | use cold |\n",
+        "| TRIzol Reagent | | | |\n",
+        "| **Samples** | | | |\n",
+        "| 2 mL blood sample | N/A | N/A | EDTA or Heparine treated |\n",
+        "| **Other** | | | |\n",
+        "| 50 ml tubes | | | |\n",
+        "\n",
+        "## Recipes:\n",
+        "\n",
+        "1. RBC Lysis Buffer (1x):\n",
+        "150 mM NH4Cl,\n",
+        "10 mM NaHCO3,\n",
+        "1 mM EDTA, pH 7.2 - 7.3\n",
+        "\n",
+        "## Step-by-step Method Details:\n",
+        "1. **Before beginning:**\n",
+        "  * Thaw RBC Lysis Buffer at RT.\n",
+        "  * Set a centrifuge at 4°C.\n",
+        "2. **Procedure**\n",
+        "  * Trasfer 2 mL blood to a 50 mL Falcon tube.\n",
+        "  * Add RBC Lysis buffer to the whole blood in 8:1 ratio.\n",
+        "  * Incubate for 2 minutes and 30 seconds, or until the solution becomes transparent, indicating complete lysis of red blood cells.\n",
+        "  * Fill up the tube with ice-cold PBS.\n",
+        "  * Centrifuge the tube at 500 x g for 5 minutes at 4°C. Aspirate the supernatant.\n",
+        "  * Re-suspend the pellet in ice-cold PBS and fill up the tube with ice-cold PBS.\n",
+        "  * Centrifuge the tube at 500 g for 5 minutes at 4°C. Aspirate the supernatant.\n",
+        "  * Re-suspend the pellet in ice-cold PBS and fill up the tube with ice-cold PBS.\n",
+        "  * Centrifuge the tube at 500 g for 5 minutes at 4°C. Aspirate the supernatant\n",
+        "  * In a chemical laminar flow hood, re-suspend the pellet in 1000 µl TRIzol reagent.\n",
+        "  * Transfer the TRIzol mixture into two 1.5 ml Sarstedt tubes (750 µl per tube).\n",
+        "  * Store the samples at -70°C or proceed immidiately with RNA purification.\n",
+        "\n",
+        "\n",
+        "d. Remove the supernatant, add 1 mL RBC lysis buffer to the tube, and mix it gently using a clean pipette tip.\n",
+        "e. Centrifuge the tube at 10,000 g for 5 min at 4°C.\n",
+        "f. Remove the supernatant. Wash the pellet once with 1 mL PBS buffer, mix the sample gently and centrifuge at 10,000 g for 5 min at 4°C. Discard the supernatant.\n",
+        "g. Add 1 mL TRIzol reagent, use a pipette to mix uniformly, incubate for 15 min at room temperature (RT).\n",
+        "h. Transfer the mixture of blood white cells and TRIzol reagent to a −80°C freezer.\n",
+        "Protocol B: Blood-Trizol method\n",
+        "Add 1 mL RBC lysis buffer into the blood aliquot, mix gently and incubate at room temperature for 10 min. The following steps of the procedure are the same as step c to h in Protocol A.\n"
+      ],
+      "metadata": {
+        "id": "9uyID6yUu4D3"
+      }
+    }
+  ]
+}
